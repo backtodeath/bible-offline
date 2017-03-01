@@ -2,53 +2,9 @@
 <SignedInfo>
 <CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"></CanonicalizationMethod>
 <SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256"></SignatureMethod>
-<Reference URI=".git%2FFETCH_HEAD">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>76HKv0hJGy0QMZLGJeUYMmju0UNCeR09Eycundnp1q0=</DigestValue>
-</Reference>
-<Reference URI=".git%2FHEAD">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>9vK5RfbEEbAro9qces6I3PcbavZbouDYmqgpAAQrWhA=</DigestValue>
-</Reference>
-<Reference URI=".git%2Fconfig">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>czWp5+t+SuitdoDgzhkKgCj47Bg3uAQbCPDoNebd2Eo=</DigestValue>
-</Reference>
-<Reference URI=".git%2Findex">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>S7tUi6JKAmhyCL7h1W1BWHehI2JRIQJevDdVjtx8XFw=</DigestValue>
-</Reference>
-<Reference URI=".git%2Flogs%2FHEAD">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>MMe4S7DuQfYOFVJkiWGQ9+usJvpLb8dJi59/Vk9kw40=</DigestValue>
-</Reference>
-<Reference URI=".git%2Flogs%2Frefs%2Fheads%2Fmaster">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>MMe4S7DuQfYOFVJkiWGQ9+usJvpLb8dJi59/Vk9kw40=</DigestValue>
-</Reference>
-<Reference URI=".git%2Flogs%2Frefs%2Fremotes%2Forigin%2Fmaster">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>phSxeg3BYg56jcWI84UY3MvhIeAVcbUBgxmuwTTsA2w=</DigestValue>
-</Reference>
-<Reference URI=".git%2Fobjects%2Fpack%2Fpack-ddfb0f63663c7ef8450f18364db90aa57681800c.idx">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>hpGiwk5qapoIx58kinkhHybv3kDkQN39pLaITUa7sIc=</DigestValue>
-</Reference>
-<Reference URI=".git%2Fobjects%2Fpack%2Fpack-ddfb0f63663c7ef8450f18364db90aa57681800c.pack">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>CUoETDlChW+e0YbpzHsLvbboeO7o46c+VVtr3hkPmVw=</DigestValue>
-</Reference>
-<Reference URI=".git%2Frefs%2Fheads%2Fmaster">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>+HVPLymFzLB0SA1vXDXkN9SgA4cMrk9gelTQrT6vwLY=</DigestValue>
-</Reference>
-<Reference URI=".git%2Frefs%2Fremotes%2Forigin%2Fmaster">
-<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>+HVPLymFzLB0SA1vXDXkN9SgA4cMrk9gelTQrT6vwLY=</DigestValue>
-</Reference>
 <Reference URI="author-signature.xml">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>bdy0vE8U7zAifmJmc1a40uN3VRwaTCa3nQ6Rw3hhpTs=</DigestValue>
+<DigestValue>cuW3bnKeCmJLIWzrErUck8QFlik7uIEGQzBF6UeDTGI=</DigestValue>
 </Reference>
 <Reference URI="bible%2FBooks.json">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
@@ -451,9 +407,9 @@
 </Reference>
 </SignedInfo>
 <SignatureValue>
-k8t/RJTMU9+NE+j3RNkknmKNquPF++02k8bLirlVPw3zkMDNja1ssGoH3D83wtxPRhiogGp17t+v
-ZSm6SvY8JACfUwqzLBXFXMyQrI2tLDyzBxqHyNQwSjq0EV58FeSZ7t0A5optKtEXC6m6Qq4vxRPc
-on9Mc81fFCPhFd1MLXM=
+CV664ymImTi+YZDBuBVGFq4WN0nsRuXoP9XKHXG6yjt9Y6C88EaN08bujdmu9zbd+jfDvTxFhE45
+iaegbKy/s2+Z3qnmLsLSVVYNIqXBkq3HYY8DBNkwXOQvQlM1Q6TOHdifSDdIElfpA77kPNCdAMfF
+3Nrf2/qU6oPXYvUrcHo=
 </SignatureValue>
 <KeyInfo>
 <X509Data>
