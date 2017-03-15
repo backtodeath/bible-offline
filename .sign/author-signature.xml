@@ -38,9 +38,9 @@
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
 <DigestValue>sGxiQCZB+aat9t8Vf2A4jeLvcXPUi0qhUfztWWCI0Yo=</DigestValue>
 </Reference>
-<Reference URI="bible%2Fparts%2F2Chronicles">
+<Reference URI="bible%2Fparts%2F2Chronicles.json">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>Aa4r3sKmczUJHOzKEr+HVZC7fDKilVKyF+PiXiSfdoA=</DigestValue>
+<DigestValue>8jMdBzosZGUz50NcjaCk52YYCP38p8z62bE2FKKAASk=</DigestValue>
 </Reference>
 <Reference URI="bible%2Fparts%2F2Corinthians.json">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
@@ -276,7 +276,7 @@
 </Reference>
 <Reference URI="config.xml">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>6uNhA48vDo4XydTWkfeXFfrAZDgNQwnZzi3vNrR8S8E=</DigestValue>
+<DigestValue>y9BdiopHuiDg0L12RcxN5SSa41Kgk/wOT42Kx67v7sQ=</DigestValue>
 </Reference>
 <Reference URI="css%2Fstyle.css">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
@@ -403,9 +403,9 @@
 </Reference>
 </SignedInfo>
 <SignatureValue>
-CxubfcKxKHQAIvJB2Z1Ha55fwreBsoVf7AklmlriahlkJd1fvc8dNO/ZQ0ynu+bn9EknDcrSqRVT
-Vq8OudXO89agkbyH3KunEhogznlFFXtNWYat1xIxeMaTnZlSrjus99Er+5YS/umKY34ORj5dTTP8
-xTD/xmEQ5aujgGdjIZM=
+WZc7GJAB5qyECdFrEHiHBIRuXMn5nAvkmD46IKtejNx8gOeLtMhJX+VIQyYdqDepYVr4QZqKfjtE
+L5gyY67IXkYzoaFHtlkW7xSYMSuskr6NeHsBu3L+O97T7Ahk8H3+WaFZEhQfq+r6D+WQfAIbs1Od
+bTR1Kxvs45eOX6Ij1Z4=
 </SignatureValue>
 <KeyInfo>
 <X509Data>

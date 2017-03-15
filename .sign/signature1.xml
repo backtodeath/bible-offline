@@ -4,7 +4,7 @@
 <SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256"></SignatureMethod>
 <Reference URI="author-signature.xml">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>cuW3bnKeCmJLIWzrErUck8QFlik7uIEGQzBF6UeDTGI=</DigestValue>
+<DigestValue>6QbR/pNlUn/eRf0TGoTtVz/wPRcbKRgKFV60F3DN57o=</DigestValue>
 </Reference>
 <Reference URI="bible%2FBooks.json">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
@@ -42,9 +42,9 @@
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
 <DigestValue>sGxiQCZB+aat9t8Vf2A4jeLvcXPUi0qhUfztWWCI0Yo=</DigestValue>
 </Reference>
-<Reference URI="bible%2Fparts%2F2Chronicles">
+<Reference URI="bible%2Fparts%2F2Chronicles.json">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>Aa4r3sKmczUJHOzKEr+HVZC7fDKilVKyF+PiXiSfdoA=</DigestValue>
+<DigestValue>8jMdBzosZGUz50NcjaCk52YYCP38p8z62bE2FKKAASk=</DigestValue>
 </Reference>
 <Reference URI="bible%2Fparts%2F2Corinthians.json">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
@@ -280,7 +280,7 @@
 </Reference>
 <Reference URI="config.xml">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>6uNhA48vDo4XydTWkfeXFfrAZDgNQwnZzi3vNrR8S8E=</DigestValue>
+<DigestValue>y9BdiopHuiDg0L12RcxN5SSa41Kgk/wOT42Kx67v7sQ=</DigestValue>
 </Reference>
 <Reference URI="css%2Fstyle.css">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
@@ -407,9 +407,9 @@
 </Reference>
 </SignedInfo>
 <SignatureValue>
-CV664ymImTi+YZDBuBVGFq4WN0nsRuXoP9XKHXG6yjt9Y6C88EaN08bujdmu9zbd+jfDvTxFhE45
-iaegbKy/s2+Z3qnmLsLSVVYNIqXBkq3HYY8DBNkwXOQvQlM1Q6TOHdifSDdIElfpA77kPNCdAMfF
-3Nrf2/qU6oPXYvUrcHo=
+ekF2yU/06fFmz24gCQ656SWC+xqDm8d0H2fhsoEiqGO8sVhwUjsBBOFkdaxvApQ3qah/A0/qOEGQ
+IUGLHP+0xavDAb2Peqwm4VQMDpLa0OBIDS3ZduqWvueObwocXoLkwXRgxA/U97BEjM2p4itIHP+3
+xC8AfJVnbczcCCTkvUI=
 </SignatureValue>
 <KeyInfo>
 <X509Data>
